@@ -1,23 +1,27 @@
 {
   "files": {
     "main.css": "/Philip-portfolio/static/css/main.f7f93f4b.chunk.css",
-    "main.js": "/Philip-portfolio/static/js/main.537fcbe4.chunk.js",
-    "main.js.map": "/Philip-portfolio/static/js/main.537fcbe4.chunk.js.map",
-    "runtime-main.js": "/Philip-portfolio/static/js/runtime-main.3330b0fa.js",
-    "runtime-main.js.map": "/Philip-portfolio/static/js/runtime-main.3330b0fa.js.map",
+    "main.js": "/Philip-portfolio/static/js/main.0028535c.chunk.js",
+    "main.js.map": "/Philip-portfolio/static/js/main.0028535c.chunk.js.map",
+    "runtime-main.js": "/Philip-portfolio/static/js/runtime-main.c5817e8e.js",
+    "runtime-main.js.map": "/Philip-portfolio/static/js/runtime-main.c5817e8e.js.map",
     "static/js/2.3a74c30d.chunk.js": "/Philip-portfolio/static/js/2.3a74c30d.chunk.js",
     "static/js/2.3a74c30d.chunk.js.map": "/Philip-portfolio/static/js/2.3a74c30d.chunk.js.map",
-    "static/js/3.2de51869.chunk.js": "/Philip-portfolio/static/js/3.2de51869.chunk.js",
-    "static/js/3.2de51869.chunk.js.map": "/Philip-portfolio/static/js/3.2de51869.chunk.js.map",
+    "static/js/3.6b129258.chunk.js": "/Philip-portfolio/static/js/3.6b129258.chunk.js",
+    "static/js/3.6b129258.chunk.js.map": "/Philip-portfolio/static/js/3.6b129258.chunk.js.map",
     "index.html": "/Philip-portfolio/index.html",
     "static/css/main.f7f93f4b.chunk.css.map": "/Philip-portfolio/static/css/main.f7f93f4b.chunk.css.map",
     "static/js/2.3a74c30d.chunk.js.LICENSE.txt": "/Philip-portfolio/static/js/2.3a74c30d.chunk.js.LICENSE.txt",
-    "static/media/headerimage.jpg": "/Philip-portfolio/static/media/headerimage.fa112ded.jpg"
+    "static/media/InsertionSort.f951a8c6.png": "/Philip-portfolio/static/media/InsertionSort.f951a8c6.png",
+    "static/media/Talkie.b491aef8.png": "/Philip-portfolio/static/media/Talkie.b491aef8.png",
+    "static/media/Tangy.a1c424ea.png": "/Philip-portfolio/static/media/Tangy.a1c424ea.png",
+    "static/media/headerimage.fa112ded.jpg": "/Philip-portfolio/static/media/headerimage.fa112ded.jpg",
+    "static/media/profile.3a9357dc.png": "/Philip-portfolio/static/media/profile.3a9357dc.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3330b0fa.js",
+    "static/js/runtime-main.c5817e8e.js",
     "static/js/2.3a74c30d.chunk.js",
     "static/css/main.f7f93f4b.chunk.css",
-    "static/js/main.537fcbe4.chunk.js"
+    "static/js/main.0028535c.chunk.js"
   ]
 }
